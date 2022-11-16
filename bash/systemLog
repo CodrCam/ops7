@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#Script: Ops 201 Class 07 Ops Challenge Solution
+#Author: Cameron Griffin
+#Date of latest revision: 11-15-2022
+#Purpose: Creata an array and creates files in array
+
+
+# Create a script that detects CPU, RAM, Network, Display using the grep command
+
+# Mental Break
